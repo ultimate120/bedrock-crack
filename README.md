@@ -42,7 +42,7 @@ Here's how to do that: Open Run(WIN_KEY + R) After its open Try to find `TimeBro
   
 To install, just open the files.
 
-2. Download the minecraft appx file from [Microsoft Store-Generation project]([https://github.com/MCMrARM/mc-w10-version-launcher/releases/download/0.4.0/MCLauncher.zi](https://store.rg-adguard.net/)https://store.rg-adguard.net/p)
+2. Download the minecraft appx file from [Microsoft Store-Generation project](https://store.rg-adguard.net/)
 
    I. Go to microsoft store website and search for `Minecraft Bedrock For Windows`
    
