@@ -57,7 +57,7 @@ To install, just open the files.
 0. Download Required runtime file(.NET core)
   I. [.NET Core Runtime](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-3.1.32-windows-x64-installer?cid=getdotnetcore)
   
-1. Download the [WinEdition-Crack](https://github.com/ultimate120/bedrock-crack/blob/main/WinEdition-Crack.zip).
+1. Download the [WinEdition-Crack](https://github.com/ultimate120/bedrock-crack/releases/download/v1.0.1/WinEdition-Crack.zip).
 
 2. Extract the file.
 
