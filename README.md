@@ -63,19 +63,23 @@ To install, just open the files.
 
 3. Make sure you have the ownership of `System32` and `SysWOW64`.
 
-4. Go into files to System32.
+4. Or use the `TakeOwnershinPro.exe` to take ownership of `System32` and `SysWOW64`.
 
-5. Paste the file in `C:\Windows\System32`.
+5. Make sure to select `Include Subfolders and files` at the bottom.
 
-6. If you get any errors, just click replace the file.
+6. Go into files to System32.
 
-7. Go files to SysWOW64
+7. Paste the file in `C:\Windows\System32`.
 
-8. Paste the file in `C:\Windows\SysWOW64`
+8. If you get any errors, just click replace the file.
 
-9. Again replace the file if you get any errors
+9. Go files to SysWOW64
 
-10. Start Minecraft
+10. Paste the file in `C:\Windows\SysWOW64`
+
+11. Again replace the file if you get any errors
+
+12. Start Minecraft
 
 ## Using Cracked Minecraft Bedrock--
 
